@@ -1,4 +1,5 @@
 some new bugs
 
+#this is bug from
 #i have change file
 # This is change feature
